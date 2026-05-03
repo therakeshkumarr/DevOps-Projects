@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # **Real-World DevOps/Cloud Projects For Learning from Beginner to Advanced** ♐
 
 <p align="center">
@@ -301,3 +302,7 @@ I’d love to hear your feedback! Feel free to share your thoughts.
 ## 📜 **Copyright & License**
 
 ![Copyright](https://img.shields.io/badge/©%202026%20H%20A%20R%20S%20H%20H%20A%20A-All%20Rights%20Reserved-red?style=for-the-badge&logo=copyright&logoColor=white) ![License](https://img.shields.io/badge/⚠️%20Unauthorized%20Reproduction-Prohibited-darkred?style=for-the-badge&logo=shield&logoColor=white)
+=======
+# DevOps-Projects
+🚀 Real-world DevOps Projects for Beginner to Advanced. Covers AWS, Kubernetes, Docker, CI/CD, Terraform, Jenkins, and more. Hands-on Learning with Step-by-Step Guides.
+>>>>>>> 859512c017c73446791ec62230bdcf59df0bc4aa
