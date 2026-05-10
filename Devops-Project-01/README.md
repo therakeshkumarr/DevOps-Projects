@@ -524,7 +524,7 @@ Your feedback and contributions are welcome!
 
 📧 **Connect with me:**
 - **GitHub**: [Rakesh Kumar Sahoo](https://github.com/therakeshkumarr)
-- **LinkedIn**: [Rakesh Kumar Sahoo](https://www.linkedin.com/in/harshhaa-vardhan-reddy/)
+- **LinkedIn**: [Rakesh Kumar Sahoo](https://www.linkedin.com/in/therakeshkumar/)
 
 ---
 
@@ -536,7 +536,3 @@ If you found this project helpful, please consider:
 - **Contributing** to its improvement
 
 ---
-![Follow Me](https://imgur.com/2j7GSPs.png)
-
-> [!Important]
-> This documentation is continuously evolving. For the latest updates, please check the repository regularly.
