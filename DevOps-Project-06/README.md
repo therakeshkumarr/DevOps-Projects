@@ -127,29 +127,21 @@ A comprehensive end-to-end CI/CD pipeline leveraging **Terraform**, **Ansible**,
 
 ---
 
-## 👨‍💻 Author & Community
+## 🛠️ Author
+This project is maintained by **[Rakesh Kumar Sahoo](https://github.com/therakeshkumarr)** 💡.
+Your feedback and contributions are welcome!
 
-This project is maintained by **[Harshhaa](https://github.com/NotHarshhaa)** 🚀
-
-### 💬 Connect with Me:
-
-- 🐙 **GitHub**: [@NotHarshhaa](https://github.com/NotHarshhaa)  
-- 📝 **Blog**: [ProDevOpsGuy](https://blog.prodevopsguytech.com)  
-- 💬 **Telegram**: [Join Community](https://t.me/prodevopsguy)  
-- 👔 **LinkedIn**: [Harshhaa Vardhan Reddy](https://www.linkedin.com/in/harshhaa-vardhan-reddy/)
+📧 **Connect with me:**
+- **GitHub**: [Rakesh Kumar Sahoo](https://github.com/therakeshkumarr)
+- **LinkedIn**: [Rakesh Kumar Sahoo](https://www.linkedin.com/in/therakeshkumar/)
 
 ---
 
 ## ⭐ Support the Project
 
-If you found this helpful:
-
-- ⭐ Star this repo  
-- 🔁 Share it with your peers  
-- ✅ Follow for more DevOps content  
+If you found this project helpful, please consider:
+- **Starring** ⭐ the repository
+- **Sharing** it with your network
+- **Contributing** to its improvement
 
 ---
-
-## 📢 Stay Updated
-
-![Follow Me](https://imgur.com/2j7GSPs.png)
