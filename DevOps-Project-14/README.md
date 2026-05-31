@@ -23,22 +23,21 @@ Check out the complete **blog tutorial with screenshots** here:
 
 ---
 
-## 🛠️ Author & Credits  
+## 🛠️ Author
+This project is maintained by **[Rakesh Kumar Sahoo](https://github.com/therakeshkumarr)** 💡.
+Your feedback and contributions are welcome!
 
-This project is crafted by **[Harshhaa](https://github.com/NotHarshhaa)** 💡.  
-I’d love to hear your feedback! Let me know what you think.  
-
-📧 **Connect with me**:  
-
-- **GitHub**: [@NotHarshhaa](https://github.com/NotHarshhaa)
-- **Blog**: [ProDevOpsGuy](https://blog.prodevopsguytech.com)  
-
-### ⭐ Support the Project  
-
-If you found this helpful, consider **starring** ⭐ the repository and sharing it with your network! 🚀  
+📧 **Connect with me:**
+- **GitHub**: [Rakesh Kumar Sahoo](https://github.com/therakeshkumarr)
+- **LinkedIn**: [Rakesh Kumar Sahoo](https://www.linkedin.com/in/therakeshkumar/)
 
 ---
 
-### 📢 Stay Connected  
+## ⭐ Support the Project
 
-![Follow Me](https://imgur.com/2j7GSPs.png)  
+If you found this project helpful, please consider:
+- **Starring** ⭐ the repository
+- **Sharing** it with your network
+- **Contributing** to its improvement
+
+---
