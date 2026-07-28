@@ -409,23 +409,23 @@ The database demo can also be done here, and the amount and description can be d
 
 Adopting the **AWS 3-Tier Web Application Architecture** is a strategic move for businesses seeking to build secure, scalable, and high-performing applications in the cloud. By effectively separating the web, application, and database layers, this architecture not only enhances performance but also provides robust security and fault tolerance. As organizations continue to scale, the AWS 3-Tier architecture proves to be a reliable and flexible foundation for deploying cloud-based applications. Whether you're launching a new web app or optimizing an existing one, embracing this architecture will set your business up for long-term success in the cloud.
 
-## 🛠️ Author & Community  
+---
 
-This project is crafted by **[Harshhaa](https://github.com/NotHarshhaa)** 💡.  
-I’d love to hear your feedback! Feel free to share your thoughts.  
+## 🛠️ Author
+This project is maintained by **[Rakesh Kumar Sahoo](https://github.com/therakeshkumarr)** 💡.
+Your feedback and contributions are welcome!
 
 📧 **Connect with me:**
-
-- **GitHub**: [@NotHarshhaa](https://github.com/NotHarshhaa)
-- **Blog**: [ProDevOpsGuy](https://blog.prodevopsguytech.com)  
-- **Telegram Community**: [Join Here](https://t.me/prodevopsguy)  
+- **GitHub**: [Rakesh Kumar Sahoo](https://github.com/therakeshkumarr)
+- **LinkedIn**: [Rakesh Kumar Sahoo](https://www.linkedin.com/in/therakeshkumar/)
 
 ---
 
-## ⭐ Support the Project  
+## ⭐ Support the Project
 
-If you found this helpful, consider **starring** ⭐ the repository and sharing it with your network! 🚀  
+If you found this project helpful, please consider:
+- **Starring** ⭐ the repository
+- **Sharing** it with your network
+- **Contributing** to its improvement
 
-### 📢 Stay Connected  
-
-![Follow Me](https://imgur.com/2j7GSPs.png)
+---
