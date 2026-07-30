@@ -1,4 +1,4 @@
-# CICD PROJECT: Production Level Blog APP Deployment using EKS, Nexus, SonarQube, Trivy with Monitoring Tools
+# CI/CD Project: Production Level Blog APP Deployment using EKS, Nexus, SonarQube, Trivy with Monitoring Tools
 
 ![s](https://miro.medium.com/v2/resize:fit:700/1*9CvhrnA6Fg1LTmMjr3n3Kg.gif)
 
