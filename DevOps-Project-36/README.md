@@ -671,7 +671,7 @@ aws route53 change-resource-record-sets \
   }'
 ```
 
-It takes some time for the DNS change to reflect, try pasting the subdomain (For Example: `app.akhileshmishra.tech`) in your browser after some time, it should show you the application.
+It takes some time for the DNS change to reflect, try pasting the subdomain (Example: `app.akhileshmishra.tech`) in your browser after some time, it should show you the application.
 
 ---
 
