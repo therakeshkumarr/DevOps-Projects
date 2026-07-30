@@ -1,4 +1,4 @@
-# Real Time CI/CD Pipeline for Java Application to Deploy on Apache Server
+# CI/CD Project: Real Time CI/CD Pipeline for Java Application to Deploy on Apache Server
 
 ![](https://miro.medium.com/v2/resize:fit:700/1*OgmkAQpgv2JPwHIQcVomWA.png)
 
