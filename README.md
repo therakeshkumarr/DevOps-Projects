@@ -181,7 +181,7 @@ For comprehensive AWS-specific projects and hands-on learning experiences, visit
 
 ---
 
-## ⭐ **Hit the Star!**
+## ⭐ **Hit the Star! ⭐**
 
 **If you find this helpful, don’t forget to give this repository a star. Your support matters!** ⭐
 
